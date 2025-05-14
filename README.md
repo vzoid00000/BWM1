@@ -119,6 +119,6 @@ Jahresüberschuss + Abschreibungen (AfA) + Rückstellungen dieses Jahres - Rück
 
 ### Tilgungsformen
 
-* **Ratentilgung:** Gleichbleibende Tilgungsbeträge, sinkende Zinszahlungen
+* **Kapitalratentilgung:** Gleichbleibende Tilgungsbeträge, sinkende Zinszahlungen
 * **Annuitätentilgung:** Gleichbleibende Gesamtbelastung (Tilgung + Zinsen)
-* **Endfällige Tilgung:** Zinszahlungen wllige Tilgung:\*\* Zinszahlungen w\u00ehrend Laufzeit, Tilgung am Ende auf einmal
+* **Endfällige Tilgung:** Man zahlt dauerhaft Zinsen und am ende den gesamten Tilgungsbetrag
